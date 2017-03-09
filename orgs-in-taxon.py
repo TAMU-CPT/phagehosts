@@ -1,10 +1,20 @@
+#!/usr/bin/env python
 from Bio import Entrez
+import argparse
 import json
 
-Entrez.email = "cpt@tamu.edu"
-handle = Entrez.esearch(db="genome", term="txid10662[Organism:exp]", retmax=600)  #txid10662[Organism:exp] is entrez query for myoviridae
-record = Entrez.read(handle)
-idlist = record['IdList']
+def get_orgs(tid):
+    Entrez.email = "cpt@tamu.edu"
+    handle = Entrez.esearch(db="genome", term="txid%s[Organism:exp]" % tid, retmax=10000)
+    record = Entrez.read(handle)
+    idlist = record['IdList']
 
-h = Entrez.esummary(db="genome", id=','.join(idlist))
-print json.dumps(Entrez.read(h))
+    h = Entrez.esummary(db="genome", id=','.join(idlist))
+    return json.dumps(Entrez.read(h))
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='outputs json summaries of organisms in a taxon')
+    parser.add_argument('tid', type=str, help='taxon id')
+    args = parser.parse_args()
+
+    print get_orgs(args.tid)
