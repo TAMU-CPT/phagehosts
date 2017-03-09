@@ -4,6 +4,7 @@ import argparse
 import json
 
 def get_orgs(tid):
+    """ returns a json string of descriptions of all organisms in given taxon """
     Entrez.email = "cpt@tamu.edu"
     handle = Entrez.esearch(db="genome", term="txid%s[Organism:exp]" % tid, retmax=10000)
     record = Entrez.read(handle)
