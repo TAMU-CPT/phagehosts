@@ -19,27 +19,74 @@ import sys
 - Fusobacteria
 - Chlamydiae/Verrucomicrobia
 - Deinococcus-Thermus  # note: some deinococcus are sudo(?)-positive, but no phages have this host anyway
-Actinobacteria
-Firmicutes
-Other Bacteria
+- Chloroflexi (Sphaerobacter is +)
++ Tenericutes
++/- Actinobacteria
+    (mycobacteria are in own category;
+     gardnerella are gram variable;
+     mobiluncus is - or variable;
+     Saccharomonospora viridis is -
+     )
++/- Firmicutes
+    (Acetivibrio are -;
+     Acetohalobium are -;
+     Acetonema are -;
+     Acholeplasma are -;
+     Acidaminococcus are -;
+     Anaeroglobus are -;
+     some Brevibacillus are -;
+     Butyrivibrio are -;
+     Catonella are -;
+     Coprothermobacter are -;
+     Dehalobacter are -;
+     Dialister are -;
+     Faecalibacterium are -;
+     Halo-/helio are -;
+     Johnsonella are -;
+     Megamonas are -;
+     Megasphaera are -;
+     Mitsuokella are -;
+     Mycoplasma are -;
+     Oscillibacter are -;
+     Phascolarctobacterium are -;
+     Selenomonas are -;
+     Subdoligranulum are -;
+     Symbiobacterium are -;
+     Syntrophobotulus (?);
+     Syntrophothermus are -;
+     Thermodesulfobium/Thermosediminibacter/Thermosinus are -;
+     Ureaplasma are -;
+     Veillonella are -;)
+[ignoring] Other Bacteria
+
+
+Classification logic:
+    if startswith Mycobacteria, then myco
+    elif in gram negative category, then -
+    else
+        if startswith any special case, then -
+        else +
+
 """
 
-# gram_negative = [
-    # 'Acidobacteria',
-    # 'Alphaproteobacteria',
-    # 'Betaproteobacteria',
-    # 'Gammaproteobacteria',
-    # 'Deltaproteobacteria',
-    # 'Epsilonproteobacteria',
-    # 'Aquificae',
-    # 'Cyanobacteria',
-    # 'Spirochaetes',
-    # 'Thermotogae',
-    # 'Bacteroidetes/Chlorobi',
-    # 'Planctomycetes',
-    # 'Fusobacteria',
-    # 'Chlamydiae/Verrucomicrobia',
-# ]
+gram_negative = [
+    'Acidobacteria',
+    'Alphaproteobacteria',
+    'Betaproteobacteria',
+    'Gammaproteobacteria',
+    'Deltaproteobacteria',
+    'Epsilonproteobacteria',
+    'Aquificae',
+    'Cyanobacteria',
+    'Spirochaetes',
+    'Thermotogae',
+    'Bacteroidetes/Chlorobi',
+    'Planctomycetes',
+    'Fusobacteria',
+    'Chlamydiae/Verrucomicrobia',
+    'Deinococcus-Thermus',
+    'Chloroflexi'
+]
 
 # gram_positive = [
 # ]
@@ -56,9 +103,9 @@ def get_bacteria(b):
         if l[4] == 'Archaea' or l[5] == 'Other Bacteria':
             continue
 
-        # if len(l[3].split()) > 1:
-            # bact_name = l[3].split()[0] + ' ' + l[3].split()[1]
-        # else:
+        if len(l[3].split()) > 1:
+            bact_name = l[3].split()[0] + ' ' + l[3].split()[1]
+        else:
         bact_name = l[3].split()[0]
 
         if l[9] not in gram_stains:
@@ -81,4 +128,5 @@ if __name__ == '__main__':
     parser.add_argument('b', type=argparse.FileType("r"), help='bacteria txt file')
     args = parser.parse_args()
 
-    print get_bacteria(args.b)
+    get_bacteria(args.b)
+    # print get_bacteria(args.b)
