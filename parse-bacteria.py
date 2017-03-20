@@ -1,5 +1,7 @@
 #!/usr/bin/env python
+
 import argparse
+import json
 
 """
 - Acidobacteria
@@ -32,7 +34,6 @@ import argparse
      Acholeplasma
      Acidaminococcus
      Anaeroglobus
-     Brevibacillus
      Butyrivibrio
      Catonella
      Coprothermobacter
@@ -143,23 +144,25 @@ def get_bacteria(b):
         else:
             bact_name = l[3].split()[0]
 
-        # assign gram based on phyla
+        # assign gram uased on phyla
         if bact_name.startswith('Mycobacteria'):
             gram = 'myco'
         elif l[5] in gram_negative or negative_exception(bact_name):
             gram = 'negative'
         else:
-            gram = 'positve'
+            gram = 'positive'
 
         orgs[bact_name] = {"group": l[5], "gram": gram}
 
-    return orgs
+    # return orgs
+    return json.dumps(orgs, indent=4, sort_keys=True)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='parses ncbi bacteria file to get gram information')
     parser.add_argument('b', type=argparse.FileType("r"), help='bacteria txt file')
     args = parser.parse_args()
 
-    bacteria = get_bacteria(args.b)
-    for b in sorted(bacteria):
-        print b + '\t' + bacteria[b]["gram"]
+    print get_bacteria(args.b)
+    # bacteria = get_bacteria(args.b)
+    # for b in sorted(bacteria):
+        # print b + '\t' + bacteria[b]["gram"]
