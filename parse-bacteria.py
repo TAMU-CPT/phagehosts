@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 import argparse
-import json
-import sys
 
 """
 - Acidobacteria
@@ -28,44 +26,39 @@ import sys
      Saccharomonospora viridis is -
      )
 +/- Firmicutes
-    (Acetivibrio are -;
-     Acetohalobium are -;
-     Acetonema are -;
-     Acholeplasma are -;
-     Acidaminococcus are -;
-     Anaeroglobus are -;
-     some Brevibacillus are -;
-     Butyrivibrio are -;
-     Catonella are -;
-     Coprothermobacter are -;
-     Dehalobacter are -;
-     Dialister are -;
-     Faecalibacterium are -;
-     Halo-/helio are -;
-     Johnsonella are -;
-     Megamonas are -;
-     Megasphaera are -;
-     Mitsuokella are -;
-     Mycoplasma are -;
-     Oscillibacter are -;
-     Phascolarctobacterium are -;
-     Selenomonas are -;
-     Subdoligranulum are -;
-     Symbiobacterium are -;
-     Syntrophobotulus (?);
-     Syntrophothermus are -;
-     Thermodesulfobium/Thermosediminibacter/Thermosinus are -;
-     Ureaplasma are -;
-     Veillonella are -;)
+    (Acetivibrio
+     Acetohalobium
+     Acetonema
+     Acholeplasma
+     Acidaminococcus
+     Anaeroglobus
+     Brevibacillus
+     Butyrivibrio
+     Catonella
+     Coprothermobacter
+     Dehalobacter
+     Dialister
+     Faecalibacterium
+     Halo
+     Helio
+     Johnsonella
+     Megamonas
+     Megasphaera
+     Mitsuokella
+     Mycoplasma
+     Oscillibacter
+     Phascolarctobacterium
+     Selenomonas
+     Subdoligranulum
+     Symbiobacterium
+     Syntrophobotulus
+     Syntrophothermus
+     Thermodesulfobium
+     Thermosediminibacter
+     Thermosinus
+     Ureaplasma
+     Veillonella)
 [ignoring] Other Bacteria
-
-
-Classification logic:
-    if startswith Mycobacteria, then myco
-    elif in gram negative category, then -
-    else
-        if startswith any special case, then -
-        else +
 
 """
 
@@ -88,45 +81,85 @@ gram_negative = [
     'Chloroflexi'
 ]
 
-# gram_positive = [
-# ]
+negative_exceptions = [
+    'Acetivibrio',
+    'Acetohalobium',
+    'Acetonema',
+    'Acholeplasma',
+    'Acidaminococcus',
+    'Anaeroglobus',
+    'Brevibacillus',
+    'Butyrivibrio',
+    'Catonella',
+    'Coprothermobacter',
+    'Dehalobacter',
+    'Dialister',
+    'Faecalibacterium',
+    'Halo',
+    'Helio',
+    'Johnsonella',
+    'Megamonas',
+    'Megasphaera',
+    'Mitsuokella',
+    'Mycoplasma',
+    'Oscillibacter',
+    'Phascolarctobacterium',
+    'Selenomonas',
+    'Subdoligranulum',
+    'Symbiobacterium',
+    'Syntrophobotulus',
+    'Syntrophothermus',
+    'Thermodesulfobium',
+    'Thermosediminibacter',
+    'Thermosinus',
+    'Ureaplasma',
+    'Veillonella'
+]
 
-gram_stains = ['+', '-', '']
+def negative_exception(name):
+    for i in negative_exceptions:
+        if name.startswith(i):
+            return True
+    return False
 
 def get_bacteria(b):
     orgs = {}
     for i, line in enumerate(b):
+        gram = ''
+
+        # ignore blank/comment lines
         if not len(line.strip()) > 0 or line.startswith('#'):
             continue
 
         l = line.split('\t')
+
+        # ignore irrelevant categories
         if l[4] == 'Archaea' or l[5] == 'Other Bacteria':
             continue
 
+        # get genus and species if possible
         if len(l[3].split()) > 1:
             bact_name = l[3].split()[0] + ' ' + l[3].split()[1]
         else:
-        bact_name = l[3].split()[0]
+            bact_name = l[3].split()[0]
 
-        if l[9] not in gram_stains:
-            l[9] = ''
-
-        if bact_name not in orgs:
-            orgs[bact_name] = {"group": l[5], "gram": l[9]}
+        # assign gram based on phyla
+        if bact_name.startswith('Mycobacteria'):
+            gram = 'myco'
+        elif l[5] in gram_negative or negative_exception(bact_name):
+            gram = 'negative'
         else:
-            g = orgs[bact_name]["gram"]
-            if g and l[9] and g is not l[9]:
-                pass
-                # print str(i+1) + ": " + bact_name + " gram was " + g + " but another one says " + l[9]
-            else:
-                orgs[bact_name] = {"group": l[5], "gram": l[9]}
+            gram = 'positve'
 
-    return json.dumps(orgs)
+        orgs[bact_name] = {"group": l[5], "gram": gram}
+
+    return orgs
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='parses ncbi bacteria file to get gram information')
     parser.add_argument('b', type=argparse.FileType("r"), help='bacteria txt file')
     args = parser.parse_args()
 
-    get_bacteria(args.b)
-    # print get_bacteria(args.b)
+    bacteria = get_bacteria(args.b)
+    for b in sorted(bacteria):
+        print b + '\t' + bacteria[b]["gram"]
