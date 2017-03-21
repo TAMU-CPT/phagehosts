@@ -145,7 +145,7 @@ def get_bacteria(b):
             bact_name = l[3].split()[0]
 
         # assign gram uased on phyla
-        if bact_name.startswith('Mycobacteria'):
+        if bact_name.startswith('Mycobacterium'):
             gram = 'myco'
         elif l[5] in gram_negative or negative_exception(bact_name):
             gram = 'negative'
