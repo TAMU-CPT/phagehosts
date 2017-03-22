@@ -13,19 +13,28 @@ def assign_gram(phage_file, bacteria_file):
         'Enterobacteria': 'Enterobacter',
         'Enterobacterial': 'Enterobacter',
         'Enterobacteriaphage': 'Enterobacter',
+        'Lelliottia': 'Enterobacter',
         'Cyanophage': 'Cyanobacteria',
+        'Pseudomonad': 'Pseudomonas',
+        'Puniceispirillum': 'Proteobacteria',
+        'Hamiltonella': 'Enterobacteriaceae',
+        'Thalassomonas': 'Proteobacteria',
         'Natrialba': 'Archaea',
         'Archaeal': 'Archaea',
         'Methanobacterium': 'Archaea',
         'Methanothermobacter': 'Archaea',
+        'Lactoccocus': 'Lactococcus',
         'Streptomyce': 'Streptomyces',
         'Stx2-converting': 'Escherichia',
+        'Stx2': 'Escherichia',
         'T4virus': 'Enterobacter',
+        'Vibriophage': 'Vibrio',
     }
 
     ambiguous = {
         'Bacteriophage': 'Paenibacillus',  # phage Lily
-        'Phage': 'Proteus',  # phage phiJL001
+        'Phage': 'Proteobacteria',  # phage phiJL001
+        'Podovirus': 'Proteobacteria',  # phage phiJL001
         'Temperate': 'Streptococcus',  # phage phiNIH1.1
     }
 
@@ -46,15 +55,19 @@ def assign_gram(phage_file, bacteria_file):
         elif host in additions:
             host = additions[host]
         elif host in ambiguous:
-            if 'Lily' in p['Organism_Name'] or 'phiJL001' in p['Organism_Name'] or 'phiNIH1.1' in p['Organism_Name']:
+            if 'Lau218' in p['Organism_Name'] or 'Lily' in p['Organism_Name'] or 'phiJL001' in p['Organism_Name'] or 'phiNIH1.1' in p['Organism_Name']:
                 host = ambiguous[host]
+            elif 'APSE-2' in p['Organism_Name']:  # podophage with host Hamiltonella
+                host = 'Enterobacteriaceae'
+            elif 'vB_EcoP_SU10' in p['Organism_Name']:  # podophage with host E. coli
+                host = 'Escherichia'
         else:
             host = 'Unknown'
 
-        types[bacts[host]] += 1
-        # print p['Organism_Name'] + '\t' + bacts[host]
+        # types[bacts[host]] += 1
+        print p['Organism_Name'] + '\t' + bacts[host]
 
-    print types
+    # print types
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='assigns gram to phages')
