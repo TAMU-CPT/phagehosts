@@ -2,6 +2,7 @@ from Bio import motifs
 import argparse
 import sys
 import json
+from subprocess import call
 
 
 def parse_meme(meme_file, fasta_file):
@@ -22,20 +23,26 @@ def parse_meme(meme_file, fasta_file):
             clusters[str(seq_names[n])] = [n]
 
     renumbered = {}
-    with open("seqs.json", 'r') as handle:
+    with open("../seqs.json", 'r') as handle:
         data = json.load(handle)
         seqs = data["sequence_db"]["sequences"]
         for num, seq in enumerate(seqs, 1):
             renumbered[seq["name"]] = num
 
-    for num, c in enumerate(clusters):
+    for num, c in enumerate(clusters, 1):
+        folder = "cluster_%s" % num
+        call(["mkdir", folder])
         print '*****'
         print "cluster", num
         print c
         for i in clusters[c]:
             for r in renumbered:
                 if str(r).startswith(i):
+                    pic_file = str(renumbered[r]) + '.png'
+                    call(["cp", pic_file, folder])
                     print renumbered[r], i
+        call(["convert", "-append", folder + '/*.png', 'spacer.png', folder + '/out.png'])
+        call(["cp", folder + '/out.png', folder + '.png'])
         print '#######'
 
 
