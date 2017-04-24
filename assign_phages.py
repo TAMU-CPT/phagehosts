@@ -2,9 +2,11 @@
 
 import argparse
 import json
+import sys
+from Bio import SeqIO
 
 
-def assign_gram(phage_file, bacteria_file):
+def assign_gram(phages, bacteria_file):
     # phages = json.load(phage_file)
     bacts = json.load(bacteria_file)
 
@@ -48,7 +50,7 @@ def assign_gram(phage_file, bacteria_file):
 
     hosts = {}
     # for p in phages:
-    for p in phage_file:
+    for p in phages:
         # host = p['Organism_Name'].split()[0]
         host = p.strip().split()[0]
 
@@ -71,14 +73,22 @@ def assign_gram(phage_file, bacteria_file):
 
         # types[bacts[host]] += 1
         # print p['Organism_Name'] + '\t' + bacts[host]
-        print p.strip() + '\t' + bacts[host]
+        print '\t'.join([p.strip(), phages[p], bacts[host]])
 
     # print types
 
+def names_and_ids(gbks):
+    phages = {}
+    for record in SeqIO.parse(gbks, "genbank"):
+        phages[record.annotations['organism']] = record.id
+
+    return phages
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='assigns gram to phages')
-    parser.add_argument('p', type=argparse.FileType("r"), help='phage file')
+    parser.add_argument('gbks', type=argparse.FileType("r"), help='multi genbank file')
     parser.add_argument('b', type=argparse.FileType("r"), help='bacterial host file')
     args = parser.parse_args()
 
-    assign_gram(args.p, args.b)
+    phages = names_and_ids(args.gbks)
+    assign_gram(phages, args.b)
