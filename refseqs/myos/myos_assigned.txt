@@ -100,7 +100,6 @@ Escherichia phage ECML-4	NC_025446.1	negative
 Listeria phage List-36	NC_024364.1	positive
 Salmonella phage BPS15Q2	NC_031939.1	negative
 Citrobacter phage Michonne	NC_028247.1	negative
-Deftia phage phiW-14	NC_013697.1	unknown
 Pseudomonas phage 14-1	NC_011703.1	negative
 Enterobacteria phage JS10	NC_012741.1	negative
 Escherichia phage JES2013	NC_022323.1	negative
@@ -452,6 +451,7 @@ Burkholderia phage KS10	NC_011216.1	negative
 Cyanophage S-TIM5	NC_019516.1	negative
 Pseudomonas phage PPpW-3	NC_023006.1	negative
 Synechococcus phage S-CRM01	NC_015569.1	negative
+Delftia phage phiW-14	NC_013697.1	negative
 Mycobacterium phage ScottMcG	NC_011269.1	myco
 Burkholderia virus BcepMu	NC_005882.1	negative
 Vibrio phage CP-T1	NC_019457.1	negative
