@@ -1,553 +1,549 @@
-Brachyspira hyodysenteriae WA1	negative
-Bacillus licheniformis DSM 13 = ATCC 14580	positive
-Bacillus phage BM5	positive
-Synechococcus phage S-MbCM100	negative
-Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	negative
-Haemophilus influenzae R2866	negative
-Escherichia phage vB_EcoM_JS09	negative
-Salmonella phage SEN1	negative
-Salmonella phage GG32	negative
-Salmonella phage SEN4	negative
-Salmonella phage SEN5	negative
-Synechococcus phage S-WAM1	negative
-Salmonella phage BPS15Q2	negative
-Synechococcus phage S-WAM2	negative
-Escherichia phage MX01	negative
-Escherichia phage WG01	negative
-Campylobacter phage PC14	negative
-Citrobacter phage Michonne	negative
-Pseudomonas phage KPP10	negative
-Pseudomonas phage PAK_P4	negative
-Synechococcus phage S-PM2	negative
-Arthrobacter phage BarretLemon	positive
-Bacillus phage SP-15	positive
-Cyanophage S-RIM50	negative
-Acinetobacter phage vB_AbaM_phiAbaA1	negative
-Cyanophage S-RIM32	negative
-Shewanella phage Spp001	negative
-Klebsiella phage KP27	negative
-Klebsiella phage KP15	negative
-Bacillus phage Deep Blue	positive
-Salmonella phage SJ46	negative
-Salmonella phage vB_SalM_PM10	negative
-Erwinia phage vB_EamM_Huxley	negative
-Acinetobacter phage LZ35	negative
-Pseudomonas phage phiMK	negative
-Escherichia phage vB_EcoM-UFV13	negative
-Bacillus phage Phrodo	positive
-Klebsiella phage PKO111	negative
-Shigella phage SHSML-52-1	negative
-Klebsiella phage vB_KpnM_KpV477	negative
-Escherichia phage vB_EcoM_Alf5	negative
-Mycobacterium phage Tonenili	myco
-Bacillus phage Nemo	positive
-Citrobacter phage vB_CfrM_CfP1	negative
-Bacillus phage DirtyBetty	positive
-Bacillus phage NotTheCreek	positive
-Enterobacter phage Arya	negative
-Escherichia phage HY03	negative
-Erwinia phage vB_EamM_Phobos	negative
-Salmonella phage NR01	negative
-Bacillus phage Nigalana	positive
-Escherichia phage UFV-AREG1	negative
-Bacillus phage SageFayge	positive
-Shigella phage SHSML-45	negative
-Bacillus phage Kida	positive
-Shigella phage SHFML-26	negative
-Erwinia phage vB_EamM_Kwan	negative
-Erwinia phage vB_EamM_EarlPhillipIV	negative
-Shigella phage SHBML-50-1	negative
-Salmonella phage vB_SnwM_CGG4-1	negative
-Bacillus phage SalinJah	positive
-Bacillus phage Belinda	positive
-Morganella phage vB_MmoM_MP1	negative
-Bacillus phage AR9	positive
-Bacillus phage DIGNKC	positive
-Erwinia phage vB_EamM_ChrisDB	negative
-Bacillus phage Zuko	positive
-Erwinia phage vB_EamM_Asesino	negative
-Shigella phage SHFML-11	negative
-Pseudomonas phage vB_PsyM_KIL1	negative
-Staphylococcus phage Stau2	positive
-Bacillus phage Eldridge	positive
-Pseudomonas phage K5	negative
-Ralstonia phage RSP15	negative
-Pseudomonas phage phi3	negative
-Bacillus phage Shbh1	positive
-Bacillus phage SPG24	positive
-Escherichia phage SUSP2	negative
-Escherichia phage SUSP1	negative
-Campylobacter virus CPX	negative
-Burkholderia phage BcepB1A	negative
-Burkholderia virus BcepMu	negative
-Escherichia virus 186	negative
-Acinetobacter phage vB_AbaM_IME200	negative
-Arthrobacter phage vB_ArtM-ArV1	positive
-Cronobacter phage S13	negative
-Cronobacter phage CR5	negative
-Edwardsiella phage GF-2	negative
-Salmonella phage 19	negative
-Salmonella phage 21	negative
-Salmonella phage 38	negative
-Mycobacterium phage HyRo	myco
-Rhizobium phage vB_RleM_PPF1	negative
-Pseudomonas phage PPpW-3	negative
-Vibrio phage ValKK3	negative
-Pseudomonas phage PAK_P3	negative
-Escherichia phage slur02	negative
-Escherichia phage slur07	negative
-Pectobacterium phage phiTE	negative
-Microcystis aeruginosa phage Ma-LMM01	negative
-Xanthomonas phage OP2	negative
-Escherichia phage slur14	negative
-Escherichia phage slur16	negative
-Pseudomonas phage DL68	negative
-Pseudomonas phage DL60	negative
-Pseudomonas phage K8	negative
-Staphylococcus phage 812	positive
-Clostridium phage phiCDHM13	positive
-Pseudomonas phage PaoP5	negative
-Pseudomonas phage VCM	negative
-Bacillus phage Bp8p-C	positive
-Brevibacillus phage Jimmer1	positive
-Pseudoalteromonas phage H101	negative
-Escherichia phage APCEc01	negative
-Lactobacillus phage LfeInf	positive
-Clostridium phage phiCD211	positive
-Dickeya virus Limestone	negative
-Enterobacteria phage phi92	negative
-Mycobacterium phage Breeniome	myco
-Lactobacillus phage phi jlb1	positive
-Clostridium phage phiMMP03	positive
-Clostridium phage phiCD481-1	positive
-Clostridium phage phiMMP01	positive
-Clostridium phage phiCD506	positive
-Clostridium phage phiCD505	positive
-Citrobacter phage Merlin	negative
-Citrobacter phage Margaery	negative
-Brevibacillus phage Abouo	positive
-Enterococcus phage EFLK1	positive
-Escherichia phage JH2	negative
-Citrobacter phage IME-CF2	negative
-Enterococcus phage EFDG1	positive
-Microcystis phage MaMV-DC	negative
-Clostridium phage phiCDHM11	positive
-Stenotrophomonas phage IME13	negative
-Pseudomonas phage PhiPA3	negative
-Clostridium phage phiCDHM19	positive
-Acinetobacter phage phiAC-1	negative
-Mycobacterium phage Alice	myco
-Bacillus phage Shanette	positive
-Bacillus phage JL	positive
-Brevibacillus phage Osiris	positive
-Staphylococcus phage phiIPLA-C1C	positive
-Escherichia phage vB_EcoM_VR26	negative
-Prochlorococcus phage P-TIM68	negative
-Ralstonia phage RSL2	negative
-Sinorhizobium phage phiN3	negative
-Bacillus phage Eyuki	positive
-Escherichia phage pro483	negative
-Pectobacterium bacteriophage PM2	negative
-Pseudomonas phage vB_Pae_PS44	negative
-Escherichia phage vB_EcoM_VR25	negative
-Ralstonia phage RSF1	negative
-Mannheimia phage vB_MhM_587AP1	negative
-Escherichia phage pro147	negative
-Escherichia phage vB_EcoM_VR20	negative
-Bacillus phage TsarBomba	positive
-Bacillus phage AvesoBmore	positive
-Pseudomonas phage vB_PaeM_PS24	negative
-Enterobacteria phage vB_EcoM_VR5	negative
-Escherichia phage HY02	negative
-Acinetobacter phage YMC11/12/R2315	negative
-Enterobacteria phage QL01	negative
-Escherichia phage vB_EcoM_AYO145A	negative
-Yersinia phage vB_YenM_TG1	negative
-Mannheimia phage vB_MhM_3927AP2	negative
-Staphylococcus phage phiIPLA-RODI	positive
-Proteus phage vB_PmiM_Pm5461	negative
-Klebsiella phage Matisse	negative
-Enterobacteria phage WPhi	negative
-Klebsiella phage vB_KpnM_KB57	negative
-Edwardsiella phage PEi20	negative
-Cronobacter phage PBES 02	negative
-Klebsiella phage JD18	negative
-Sinorhizobium phage phiM9	negative
-Cyanophage P-TIM40	negative
-Pseudomonas phage C11	negative
-Pseudomonas phage PaP1	negative
-Bacillus phage JBP901	positive
-Bacillus phage BCP8-2	positive
-Staphylococcus virus SA11	positive
-Vibrio phage nt-1	negative
-Acinetobacter phage ZZ1	negative
-Escherichia phage vB_EcoM_ECO1230-10	negative
-Escherichia phage AR1	negative
-Enterobacteria phage RB68	negative
-Campylobacter virus CP220	negative
-Campylobacter virus CPt10	negative
-Staphylococcus phage SA1	positive
-Lactobacillus phage LBR48	positive
-Vibrio phage VP585	negative
-Flavobacterium phage FCL-2	negative
-Escherichia phage vB_EcoM-ep3	negative
-Campylobacter phage CP30A	negative
-Salmonella phage STP4-a	negative
-Pseudomonas phage vB_PaeM_C1-14_Ab28	negative
-Pseudomonas phage vB_PaeM_PAO1_Ab03	negative
-Pseudomonas phage vB_PaeM_PAO1_Ab27	negative
-Brevibacillus phage Davies	positive
-Staphylococcus phage S25-3	positive
-Staphylococcus phage S25-4	positive
-Enterobacteria phage SfMu	negative
-Enterobacteriaphage UAB_Phi87	negative
-Escherichia phage HY01	negative
-Enterobacteria phage SfI	negative
-Escherichia phage vB_EcoM-VpaE1	negative
-Acinetobacter phage YMC13/03/R2096	negative
-Citrobacter phage Moon	negative
-Salmonella phage HB-2014	negative
-Yersinia phage PST	negative
-Salmonella phage SPN3US	negative
-Klebsiella phage K64-1	negative
-Escherichia phage EC6	negative
-Vibrio phage PV94	negative
-Escherichia phage PBECO 4	negative
-Yersinia phage phiD1	negative
-Salmonella phage SSE121	negative
-Salmonella phage STML-198	negative
-Erwinia phage phiEa2809	negative
-Enterococcus phage ECP3	positive
-Bacillus phage Moonbeam	positive
-Bacillus phage Mater	positive
-Escherichia phage Av-05	negative
-Rhizobium phage RHEph06	negative
-Citrobacter phage Moogle	negative
-Sinorhizobium phage phiM12	negative
-Synechococcus phage ACG-2014b	negative
-Synechococcus phage ACG-2014i	negative
-Salmonella phage Det7	negative
-Citrobacter phage Miller	negative
-Synechococcus phage ACG-2014e	negative
-Synechococcus phage ACG-2014f	negative
-Synechococcus phage ACG-2014g	negative
-Synechococcus phage ACG-2014d	negative
-Synechococcus phage ACG-2014j	negative
-Escherichia phage vB_EcoM_VR7	negative
-Enterobacteria phage GEC-3S	negative
-Salmonella phage FelixO1	negative
-Enterobacteria phage SfV	negative
-Haemophilus phage HP2	negative
-Vibrio phage K139	negative
-Haemophilus phage HP1	negative
-Enterobacteria phage P4	negative
-Enterobacteria phage RB27	negative
-Enterobacteria phage RB3	negative
-Enterobacteria phage P88	negative
-Vibrio phage X29	negative
-Synechococcus phage metaG-MbCM1	negative
-Shigella phage pSs-1	negative
-Escherichia phage vB_EcoM_112	negative
-Escherichia phage ECML-4	negative
-Escherichia phage ECML-117	negative
-Listeria phage WIL-1	positive
-Shigella phage Shf125875	negative
-Bacillus phage CP-51	positive
-Caulobacter phage Cr30	negative
-Staphylococcus phage Team1	positive
-Staphylococcus phage MCE-2014	positive
-Shewanella sp. phage 1/40	negative
-Dickeya phage RC-2014	negative
-Shewanella sp. phage 3/49	negative
-Shewanella sp. phage 1/44	negative
-Acinetobacter phage vB_AbaM_Acibel004	negative
-Aeromonas phage pAh6-C	negative
-Shewanella sp. phage 1/41	negative
-Escherichia phage ECML-134	negative
-Escherichia phage 121Q	negative
-Shewanella sp. phage 1/4	negative
-Rhizobium phage vB_RleM_P10VF	negative
-Staphylococcus phage P108	positive
-Bacillus phage Riley	positive
-Bacillus phage CAM003	positive
-Bacillus phage Hakuna	positive
-Bacillus phage Megatron	positive
-Bacillus phage Evoli	positive
-Bacillus phage Hoody T	positive
-Escherichia phage FFH2	negative
-Salmonella phage vB_SalM_SJ3	negative
-Synechococcus phage ACG-2014c	negative
-Escherichia phage 4MG	negative
-Enterobacteria phage T4	negative
-Ralstonia phage RSY1	negative
-Erwinia phage Ea35-70	negative
-Pectobacterium phage PM1	negative
-Bacillus phage BPS10C	positive
-Escherichia phage vB_EcoM_PhAPEC2	negative
-Bacillus phage Bobb	positive
-Listeria phage LMTA-148	positive
-Acinetobacter phage YMC-13-01-C62	negative
-Synechococcus phage ACG-2014h	negative
-Listeria phage LP-125	positive
-Listeria phage LP-083-2	positive
-Listeria phage LP-048	positive
-Cronobacter phage vB_CsaM_GAP32	negative
-Salmonella phage Maynard	negative
-Salmonella phage Marshall	negative
-Bacillus phage Grass	positive
-Bacillus phage BigBertha	positive
-Bacillus phage Spock	positive
-Bacillus phage CampHawk	positive
-Cronobacter phage CR8	negative
-Listeria phage List-36	positive
-Listeria phage LMSP-25	positive
-Staphylococcus virus K	positive
-Bacillus phage Bcp1	positive
-Edwardsiella phage PEi21	negative
-Pelagibacter phage HTVC008M	negative
-Clostridium phage CDMH1	positive
-Serratia phage PS2	negative
-Bacillus phage Troll	positive
-Synechococcus phage S-CAM8	negative
-Synechococcus phage S-RIM2 R1_1999	negative
-Salmonella phage vB_SalM_SJ2	negative
-Mycobacterium phage Pleione	myco
-Mycobacterium phage MoMoMixon	myco
-Mycobacterium phage Nappy	myco
-Bacillus virus G	positive
-Cronobacter phage CR9	negative
-Mycobacterium phage LinStu	myco
-Mycobacterium phage Dandelion	myco
-Aeromonas phage PX29	negative
-Pseudomonas phage PaBG	negative
-Stenotrophomonas phage Smp131	negative
-Enterobacter phage PG7	negative
-Edwardsiella phage eiAU-183	negative
-Pseudomonas phage phiPsa374	negative
-Staphylococcus phage phiSA12	positive
-Vibrio phage VH7D	negative
-Aggregatibacter phage S1249	negative
-Escherichia phage Lw1	negative
-Bacillus phage phiAGATE	positive
-Staphylococcus phage Sb-1	positive
-Pseudomonas phage PAK_P1	negative
-Enterobacteria phage fiAA91-ss	negative
-Pseudomonas phage CHA_P1	negative
-Pseudomonas phage PAK_P2	negative
-Pseudomonas phage PAK_P5	negative
-Shigella phage SfIV	negative
-Vibrio phage VPUSM 8	negative
-Lactobacillus phage phiAQ113	positive
-Bacillus phage B4	positive
-Shigella phage SfII	negative
-Klebsiella phage 0507-KN2-1	negative
-Escherichia phage JES2013	negative
-Aeromonas virus 44RR2	negative
-Aeromonas virus 31	negative
-Escherichia virus P1	negative
-Staphylococcus phage vB_SauM_Remus	positive
-Bacillus phage phiNIT1	positive
-Escherichia phage PhaxI	negative
-Salmonella phage FSL SP-004	negative
-Mycobacterium phage Astraea	myco
-Mycobacterium phage ArcherS7	myco
-Mycobacterium phage Gizmo	myco
-Burkholderia phage ST79	negative
-Rhizobium phage RR1-A	negative
-Rhizobium phage RR1-B	negative
-Rhodococcus phage E3	positive
-Synechococcus phage S-IOM18	negative
-Iodobacteriophage phiPLPE	negative
-Prochlorococcus phage P-SSM3	negative
-Pseudomonas phage vB_PaeM_C2-10_Ab1	negative
-Edwardsiella phage MSW-3	negative
-Cyanophage P-RSM1	negative
-Vibrio phage martha 12B12	negative
-Aeromonas phage Aes012	negative
-Staphylococcus phage vB_SauM_Romulus	positive
-Bacillus phage vB_BceM-Bc431v3	positive
-Listeria phage vB_LmoM_AG20	positive
-Salmonella phage vB_SenMS16	negative
-Aeromonas virus 65	negative
-Pseudomonas phage 201phi2-1	negative
-Synechococcus phage S-SSM4	negative
-Cellulophaga phage phiSM	negative
-Cyanophage P-RSM6	negative
-Prochlorococcus phage MED4-184	negative
-Prochlorococcus phage MED4-213	negative
-Vibrio phage 11895-B1	negative
-Psychrobacter phage pOW20-A	negative
-Synechococcus phage S-CAM1	negative
-Escherichia phage V5	negative
-Listeria virus A511	positive
-Synechococcus phage S-RIM8 A.HR1	negative
-Enterobacteria phage RB16	negative
-Enterobacteria phage IME08	negative
-Mycobacterium phage ET08	myco
-Escherichia phage D108	negative
-Synechococcus phage S-RSM4	negative
-Enterobacteria phage JS10	negative
-Enterobacteria phage JSE	negative
-Enterobacteria phage RB14	negative
-Enterobacteria phage RB51	negative
-Shigella phage Ag3	negative
-Bacillus phage Bastille	positive
-Pseudomonas phage JG004	negative
-Bacillus phage W.Ph.	positive
-Enterobacteria phage RB32	negative
-Escherichia phage phAPEC8	negative
-Klebsiella phage JD001	negative
-Serratia phage phiMAM1	negative
-Sphingomonas phage PAU	negative
-Agrobacterium phage 7-7-1	negative
-Pseudomonas phage KPP12	negative
-Erwinia phage ENT90	negative
-Cronobacter phage ENT47670	negative
-Salmonella phage SKML-39	negative
-Yersinia phage phiR1-RT	negative
-Staphylococcus phage JD007	positive
-Vibrio phage vB_VpaM_MAR	negative
-Escherichia phage FV3	negative
-Burkholderia phage KS10	negative
-Burkholderia virus Bcep781	negative
-Burkholderia virus Bcep1	negative
-Aeromonas phage Aes508	negative
-Aeromonas phage CC2	negative
-Salmonella phage PhiSH19	negative
-Aeromonas phage vB_AsaM-56	negative
-Enterobacteria phage vB_KleM-RaK2	negative
-Bdellovibrio phage phi1422	negative
-Pectobacterium phage ZF40	negative
-Vibrio phage vB_VchM-138	negative
-Cyanophage S-TIM5	negative
-Bacillus phage BCD7	positive
-Campylobacter virus CP21	negative
-Escherichia phage wV7	negative
-Erwinia phage vB_EamM-Y2	negative
-Escherichia phage ime09	negative
-Enterobacteria phage Bp7	negative
-Cronobacter phage vB_CsaM_GAP31	negative
-Cronobacter phage vB_CsaM_GAP161	negative
-Escherichia phage HX01	negative
-Salmonella phage RE-2010	negative
-Bacillus phage SP-10	positive
-Vibrio phage CP-T1	negative
-Haemophilus phage SuMu	negative
-Pseudomonas phage NH-4	negative
-Staphylococcus phage GH15	positive
-Pseudomonas phage JG024	negative
-Clostridium phage phiMMP04	positive
-Clostridium phage phiMMP02	positive
-Escherichia phage vB_EcoM_ACG-C40	negative
-Bacillus phage BCP78	positive
-Bacillus phage BPS13	positive
-Escherichia phage Cba120	negative
-Pseudomonas phage OBP	negative
-Salmonella phage PVP-SE1	negative
-Yersinia phage phiR1-37	negative
-Salmonella phage SFP10	negative
-Thermus phage TMA	negative
-Bdellovibrio phage phi1402	negative
-Synechococcus phage S-CRM01	negative
-Campylobacter virus NCTC12673	negative
-Shigella phage Shfl2	negative
-Erwinia phage phiEt88	negative
-Erwinia phage phiEa104	negative
-Burkholderia phage KS14	negative
-Burkholderia phage KL3	negative
-Burkholderia phage KS5	negative
-Brochothrix phage A9	positive
-Salmonella phage ViI	negative
-Prochlorococcus phage P-SSM7	negative
-Synechococcus phage S-SSM5	negative
-Synechococcus phage S-SSM7	negative
-Synechococcus phage Syn19	negative
-Prochlorococcus phage P-HM2	negative
-Prochlorococcus phage P-RSM4	negative
-Synechococcus phage S-SM1	negative
-Synechococcus phage S-ShM2	negative
-Prochlorococcus phage P-HM1	negative
-Synechococcus phage S-SM2	negative
-Acinetobacter virus 133	negative
-Vibrio phage ICP1	negative
-Acinetobacter phage Acj9	negative
-Enterobacter phage CC31	negative
-Acinetobacter phage Acj61	negative
-Acinetobacter phage Ac42	negative
-Aeromonas phage phiAS5	negative
-Aeromonas phage phiAS4	negative
-Shigella phage SP18	negative
-Bacillus virus SPO1	positive
-Clostridium virus phiCD27	positive
-Mycobacterium phage Cali	myco
-Mycobacterium phage Spud	myco
-Mycobacterium phage ScottMcG	myco
-Mycobacterium phage Rizal	myco
-Mycobacterium phage Myrna	myco
-Salmonella phage Fels-2	negative
-Delftia phage phiW-14	negative
-Escherichia phage wV8	negative
-Lactobacillus phage Lb338-1	positive
-Ralstonia phage RSL1	negative
-Erwinia phage phiEa21-4	negative
-Pseudomonas phage PB1	negative
-Pseudomonas phage SN	negative
-Pseudomonas phage 14-1	negative
-Pseudomonas phage LMA2	negative
-Pseudomonas phage LBL3	negative
-Xanthomonas phage vB_XveM_DIBBI	negative
-Halocynthia phage JM-2012	unknown
-Cronobacter phage CR3	negative
-Pseudomonas phage Lu11	negative
-Acinetobacter bacteriophage AP22	negative
-Halomonas phage phiHAP-1	negative
-Synechococcus phage syn9	negative
-Enterobacteria phage JS98	negative
-Enterobacteria phage phiEcoM-GJ1	negative
-Aeromonas virus phiO18P	negative
-Enterococcus phage phiEF24C	positive
-Enterobacteria phage Phi1	negative
-Bacillus phage 0305phi8-36	positive
-Burkholderia virus BcepNY3	negative
-Ralstonia phage RSA1	negative
-Burkholderia virus phiE255	negative
-Burkholderia virus phiE202	negative
-Burkholderia virus phiE122	negative
-Clostridium virus phiC2	positive
-Burkholderia virus BcepF1	negative
-Vibrio phage VP882	negative
-Thermus phage phiYS40	negative
-Mycobacterium phage Catera	myco
-Pasteurella phage F108	negative
-Aeromonas virus 25	negative
-Mannheimia phage phiMHaA1	negative
-Clostridium virus phiCD119	positive
-Pseudomonas phage F8	negative
-Pseudomonas phage EL	negative
-Clostridium phage c-st	positive
-Prochlorococcus phage P-SSM4	negative
-Prochlorococcus phage P-SSM2	negative
-Burkholderia virus phi52237	negative
-Vibrio phage KVP40	negative
-Staphylococcus virus G1	positive
-Enterobacteria phage RB43	negative
-Staphylococcus phage Twort	positive
-Lactobacillus phage LP65	positive
-Burkholderia virus Bcep43	negative
-Salmonella virus PsP3	negative
-Streptococcus phage EJ-1	positive
-Aeromonas virus Aeh1	negative
-Enterobacteria phage RB49	negative
-Enterobacteria phage RB69	negative
-Haemophilus phage Aaphi23	negative
-Yersinia phage L-413C	negative
-Rhodothermus phage RM378	negative
-Mycobacterium phage Bxz1	myco
-Pseudomonas phage phiKZ	negative
-Vibrio phage VHML	negative
-Natrialba phage PhiCh1	archaea
-Enterobacteria phage phiP27	negative
-Pseudomonas phage phiCTX	negative
-Escherichia virus Mu	negative
-Escherichia virus P2	negative
-Lactobacillus phage KC5a	positive
+Prochlorococcus phage P-SSM3	NC_021559.1	negative
+Enterococcus phage EFLK1	NC_029026.1	positive
+Prochlorococcus phage P-SSM4	NC_006884.2	negative
+Prochlorococcus phage P-SSM7	NC_015290.1	negative
+Yersinia phage vB_YenM_TG1	NC_028820.1	negative
+Bacillus phage SageFayge	NC_031027.1	positive
+Burkholderia virus phiE122	NC_009236.1	negative
+Prochlorococcus phage P-RSM4	NC_015283.1	negative
+Listeria virus A511	NC_009811.2	positive
+Bacillus phage BigBertha	NC_022769.1	positive
+Burkholderia virus Bcep43	NC_005342.2	negative
+Synechococcus phage metaG-MbCM1	NC_019443.1	negative
+Synechococcus phage syn9	NC_008296.2	negative
+Erwinia phage phiEt88	NC_015295.1	negative
+Shewanella phage Spp001	NC_023594.2	negative
+Bacillus phage Hakuna	NC_024213.1	positive
+Vibrio phage VHML	NC_004456.1	negative
+Bacillus phage Belinda	NC_031024.1	positive
+Burkholderia virus phi52237	NC_007145.2	negative
+Prochlorococcus phage P-SSM2	NC_006883.2	negative
+Shewanella sp. phage 3/49	NC_025466.1	negative
+Bacillus phage SP-10	NC_019487.1	positive
+Bacillus phage SP-15	NC_031245.1	positive
+Klebsiella phage 0507-KN2-1	NC_022343.1	negative
+Salmonella phage STP4-a	NC_026607.2	negative
+Sinorhizobium phage phiN3	NC_028945.1	negative
+Escherichia phage vB_EcoM-VpaE1	NC_027337.1	negative
+Bacillus phage Troll	NC_022088.2	positive
+Burkholderia virus phiE255	NC_009237.1	negative
+Mycobacterium phage Myrna	NC_011273.1	myco
+Klebsiella phage PKO111	NC_031095.1	negative
+Enterobacteria phage RB3	NC_025419.1	negative
+Salmonella phage SSE121	NC_027351.1	negative
+Edwardsiella phage MSW-3	NC_020082.1	negative
+Lactobacillus phage phi jlb1	NC_024206.1	positive
+Pectobacterium bacteriophage PM2	NC_028940.1	negative
+Bacillus phage Bp8p-C	NC_029121.1	positive
+Haemophilus phage HP1	NC_001697.1	negative
+Haemophilus phage HP2	NC_003315.1	negative
+Escherichia phage 4MG	NC_022968.1	negative
+Bacillus phage CAM003	NC_024216.1	positive
+Erwinia phage vB_EamM_Asesino	NC_031107.1	negative
+Salmonella phage FSL SP-004	NC_021774.1	negative
+Aeromonas virus 25	NC_008208.1	negative
+Bacillus phage NotTheCreek	NC_031049.1	positive
+Bacillus phage SalinJah	NC_031034.1	positive
+Lactobacillus phage LP65	NC_006565.1	positive
+Salmonella phage Marshall	NC_022772.1	negative
+Enterococcus phage phiEF24C	NC_009904.1	positive
+Brevibacillus phage Davies	NC_022980.1	positive
+Yersinia phage L-413C	NC_004745.1	negative
+Synechococcus phage S-ShM2	NC_015281.1	negative
+Salmonella phage 21	NC_029050.1	negative
+Enterobacteria phage phiP27	NC_003356.1	negative
+Ralstonia phage RSL1	NC_010811.2	negative
+Salmonella phage vB_SalM_PM10	NC_031128.1	negative
+Erwinia phage vB_EamM_ChrisDB	NC_031126.1	negative
+Ralstonia phage RSL2	NC_028950.1	negative
+Pseudomonas phage JG004	NC_019450.1	negative
+Escherichia phage PBECO 4	NC_027364.1	negative
+Haemophilus phage SuMu	NC_019455.1	negative
+Salmonella phage GG32	NC_031045.1	negative
+Pasteurella phage F108	NC_008193.1	negative
+Synechococcus phage S-RIM2 R1_1999	NC_020859.1	negative
+Clostridium phage phiMMP04	NC_019422.1	positive
+Clostridium phage phiMMP03	NC_028959.1	positive
+Clostridium phage phiMMP02	NC_019421.1	positive
+Clostridium phage phiMMP01	NC_028883.1	positive
+Pseudomonas phage PaoP5	NC_029083.1	negative
+Escherichia phage AR1	NC_027983.1	negative
+Dickeya phage RC-2014	NC_025452.1	negative
+Campylobacter virus CPt10	NC_027996.1	negative
+Escherichia virus 186	NC_001317.1	negative
+Escherichia phage HX01	NC_018855.1	negative
+Synechococcus phage S-IOM18	NC_021536.1	negative
+Enterobacteria phage QL01	NC_028847.1	negative
+Bacillus phage Nemo	NC_031070.1	positive
+Shigella phage Shfl2	NC_015457.1	negative
+Salmonella phage SJ46	NC_031129.1	negative
+Escherichia phage vB_EcoM_ECO1230-10	NC_027995.1	negative
+Acinetobacter phage YMC13/03/R2096	NC_027332.1	negative
+Campylobacter virus CP21	NC_019507.1	negative
+Vibrio phage martha 12B12	NC_021070.1	negative
+Clostridium virus phiCD119	NC_007917.1	positive
+Lactobacillus phage LBR48	NC_027990.1	positive
+Bacillus phage JBP901	NC_027352.1	positive
+Citrobacter phage Moogle	NC_027293.1	negative
+Salmonella phage SPN3US	NC_027402.1	negative
+Pseudomonas phage LMA2	NC_011166.1	negative
+Clostridium virus phiC2	NC_009231.1	positive
+Mycobacterium phage Cali	NC_011271.1	myco
+Escherichia phage wV8	NC_012749.1	negative
+Synechococcus phage S-WAM1	NC_031944.1	negative
+Synechococcus phage S-WAM2	NC_031935.1	negative
+Escherichia phage wV7	NC_019505.1	negative
+Enterobacteria phage GEC-3S	NC_025425.1	negative
+Staphylococcus phage P108	NC_025426.1	positive
+Pseudomonas phage phiKZ	NC_004629.1	negative
+Escherichia phage ECML-4	NC_025446.1	negative
+Listeria phage List-36	NC_024364.1	positive
+Salmonella phage BPS15Q2	NC_031939.1	negative
+Citrobacter phage Michonne	NC_028247.1	negative
+Deftia phage phiW-14	NC_013697.1	unknown
+Pseudomonas phage 14-1	NC_011703.1	negative
+Enterobacteria phage JS10	NC_012741.1	negative
+Escherichia phage JES2013	NC_022323.1	negative
+Aeromonas virus Aeh1	NC_005260.1	negative
+Dickeya virus Limestone	NC_019925.1	negative
+Acinetobacter phage ZZ1	NC_018087.3	negative
+Pseudomonas phage NH-4	NC_019451.1	negative
+Staphylococcus phage phiIPLA-RODI	NC_028765.1	positive
+Aeromonas phage pAh6-C	NC_025459.1	negative
+Lactobacillus phage Lb338-1	NC_012530.1	positive
+Pseudomonas phage DL60	NC_028745.1	negative
+Bacillus phage Eyuki	NC_028944.1	positive
+Pseudomonas phage phiCTX	NC_003278.1	negative
+Listeria phage LP-048	NC_024359.1	positive
+Acinetobacter phage LZ35	NC_031117.1	negative
+Pseudomonas phage CHA_P1	NC_022974.1	negative
+Escherichia phage ime09	NC_019503.1	negative
+Campylobacter virus CPX	NC_016562.1	negative
+Proteus phage vB_PmiM_Pm5461	NC_028762.1	negative
+Escherichia phage MX01	NC_031934.1	negative
+Escherichia phage ECML-134	NC_025449.1	negative
+Psychrobacter phage pOW20-A	NC_020841.1	negative
+Pseudoalteromonas phage H101	NC_029094.1	negative
+Mycobacterium phage Catera	NC_008207.1	myco
+Enterobacteria phage RB68	NC_027979.1	negative
+Enterobacteria phage RB69	NC_004928.1	negative
+Bacillus phage W.Ph.	NC_016563.1	positive
+Enterobacteria phage vB_KleM-RaK2	NC_019526.1	negative
+Vibrio phage vB_VchM-138	NC_019518.1	negative
+Enterobacteria phage IME08	NC_014260.1	negative
+Listeria phage LP-125	NC_021781.2	positive
+Escherichia phage slur02	NC_028927.1	negative
+Escherichia phage slur07	NC_028780.1	negative
+Ralstonia phage RSY1	NC_025115.1	negative
+Pseudomonas phage C11	NC_028652.1	negative
+Edwardsiella phage PEi20	NC_028683.1	negative
+Edwardsiella phage PEi21	NC_021342.2	negative
+Salmonella phage vB_SnwM_CGG4-1	NC_031065.1	negative
+Erwinia phage vB_EamM_Kwan	NC_031010.1	negative
+Listeria phage vB_LmoM_AG20	NC_020871.1	positive
+Staphylococcus phage S25-3	NC_022920.1	positive
+Escherichia phage vB_EcoM-UFV13	NC_031103.1	negative
+Enterobacteria phage RB49	NC_005066.1	negative
+Xanthomonas phage OP2	NC_007710.1	negative
+Yersinia phage phiD1	NC_027353.1	negative
+Aeromonas phage Aes012	NC_020879.1	negative
+Staphylococcus phage vB_SauM_Remus	NC_022090.1	positive
+Yersinia phage PST	NC_027404.1	negative
+Mycobacterium phage Alice	NC_028986.1	myco
+Cronobacter phage vB_CsaM_GAP31	NC_019400.1	negative
+Synechococcus phage Syn19	NC_015286.1	negative
+Cronobacter phage vB_CsaM_GAP32	NC_019401.1	negative
+Erwinia phage Ea35-70	NC_023557.1	negative
+Rhodothermus phage RM378	NC_004735.1	negative
+Escherichia phage SUSP2	NC_028935.1	negative
+Escherichia phage SUSP1	NC_028808.1	negative
+Mycobacterium phage HyRo	NC_028869.1	myco
+Enterobacteriaphage UAB_Phi87	NC_027360.1	negative
+Enterobacteria phage RB14	NC_012638.1	negative
+Enterobacteria phage RB16	NC_014467.1	negative
+Salmonella phage SFP10	NC_016073.1	negative
+Shigella phage SfIV	NC_022749.1	negative
+Cyanophage S-RIM50	NC_031242.1	negative
+Pseudomonas phage F8	NC_007810.1	negative
+Bacillus phage BCP8-2	NC_027355.1	positive
+Erwinia phage vB_EamM_Phobos	NC_031043.1	negative
+Shigella phage SHSML-45	NC_031022.1	negative
+Shigella phage SfII	NC_021857.1	negative
+Rhizobium phage RHEph06	NC_027296.1	negative
+Ralstonia phage RSF1	NC_028899.1	negative
+Enterobacteria phage P88	NC_026014.1	negative
+Campylobacter virus NCTC12673	NC_015464.1	negative
+Staphylococcus phage MCE-2014	NC_025416.1	positive
+Acinetobacter phage Acj61	NC_014661.1	negative
+Synechococcus phage S-RSM4	NC_013085.1	negative
+Bacillus phage Bastille	NC_018856.1	positive
+Lactobacillus phage phiAQ113	NC_019782.1	positive
+Aeromonas phage vB_AsaM-56	NC_019527.1	negative
+Mycobacterium phage Bxz1	NC_004687.1	myco
+Mycobacterium phage Breeniome	NC_029044.1	myco
+Vibrio phage KVP40	NC_005083.2	negative
+Shewanella sp. phage 1/41	NC_025458.1	negative
+Shewanella sp. phage 1/40	NC_025470.1	negative
+Serratia phage PS2	NC_024121.1	negative
+Edwardsiella phage GF-2	NC_026611.1	negative
+Arthrobacter phage BarretLemon	NC_031252.1	positive
+Staphylococcus phage SA1	NC_027991.1	positive
+Salmonella phage STML-198	NC_027344.1	negative
+Shigella phage SP18	NC_014595.1	negative
+Morganella phage vB_MmoM_MP1	NC_031020.1	negative
+Bacillus phage Nigalana	NC_031037.1	positive
+Prochlorococcus phage P-TIM68	NC_028955.1	negative
+Staphylococcus virus G1	NC_007066.1	positive
+Clostridium phage phiCDHM11	NC_029001.1	positive
+Clostridium phage phiCDHM13	NC_029116.1	positive
+Mannheimia phage phiMHaA1	NC_008201.1	negative
+Clostridium phage phiCDHM19	NC_028996.1	positive
+Escherichia phage vB_EcoM_PhAPEC2	NC_024794.1	negative
+Listeria phage LP-083-2	NC_024383.1	positive
+Enterobacter phage CC31	NC_014662.1	negative
+Vibrio phage PV94	NC_027368.1	negative
+Bacillus phage phiNIT1	NC_021856.1	positive
+Enterobacteria phage phi92	NC_023693.1	negative
+Clostridium phage CDMH1	NC_024144.1	positive
+Cellulophaga phage phiSM	NC_020860.1	negative
+Synechococcus phage S-RIM8 A.HR1	NC_020486.1	negative
+Escherichia phage vB_EcoM_VR20	NC_028894.1	negative
+Escherichia phage vB_EcoM_VR26	NC_028957.1	negative
+Escherichia phage vB_EcoM_VR25	NC_028925.1	negative
+Staphylococcus phage S25-4	NC_022918.1	positive
+Mycobacterium phage Pleione	NC_023737.1	myco
+Bacillus phage JL	NC_028982.1	positive
+Clostridium phage phiCD481-1	NC_028951.1	positive
+Enterobacteria phage RB51	NC_012635.1	negative
+Aeromonas virus 31	NC_007022.1	negative
+Synechococcus phage S-MbCM100	NC_023584.1	negative
+Erwinia phage ENT90	NC_019932.1	negative
+Acinetobacter phage vB_AbaM_Acibel004	NC_025462.1	negative
+Aeromonas phage phiAS5	NC_014636.1	negative
+Aeromonas phage phiAS4	NC_014635.1	negative
+Escherichia phage vB_EcoM_112	NC_024125.2	negative
+Klebsiella phage JD18	NC_028686.1	negative
+Bdellovibrio phage phi1402	NC_015721.1	negative
+Enterobacteria phage phiEcoM-GJ1	NC_010106.1	negative
+Citrobacter phage Merlin	NC_028857.1	negative
+Staphylococcus phage GH15	NC_019448.1	positive
+Citrobacter phage Miller	NC_025414.1	negative
+Staphylococcus phage phiIPLA-C1C	NC_028962.1	positive
+Bacillus phage BCD7	NC_019515.1	positive
+Mycobacterium phage Nappy	NC_023725.1	myco
+Pseudomonas phage Lu11	NC_017972.1	negative
+Halomonas phage phiHAP-1	NC_010342.1	negative
+Escherichia phage vB_EcoM_ACG-C40	NC_019399.1	negative
+Salmonella phage 19	NC_029072.1	negative
+Vibrio phage X29	NC_024369.2	negative
+Bacillus phage SPG24	NC_030903.1	positive
+Vibrio phage VP585	NC_027981.1	negative
+Caulobacter phage Cr30	NC_025422.1	negative
+Arthrobacter phage vB_ArtM-ArV1	NC_026606.1	positive
+Mycobacterium phage Gizmo	NC_021346.1	myco
+Synechococcus phage ACG-2014j	NC_026926.1	negative
+Synechococcus phage ACG-2014h	NC_023587.1	negative
+Synechococcus phage ACG-2014i	NC_027132.1	negative
+Pseudomonas phage K8	NC_028817.1	negative
+Citrobacter phage vB_CfrM_CfP1	NC_031057.1	negative
+Synechococcus phage ACG-2014b	NC_027130.1	negative
+Synechococcus phage ACG-2014c	NC_019444.1	negative
+Pseudomonas phage K5	NC_030910.1	negative
+Synechococcus phage ACG-2014f	NC_026927.1	negative
+Synechococcus phage ACG-2014g	NC_026924.1	negative
+Synechococcus phage ACG-2014d	NC_026923.1	negative
+Synechococcus phage ACG-2014e	NC_026928.1	negative
+Lactobacillus phage LfeInf	NC_029058.1	positive
+Cyanophage P-RSM6	NC_020855.1	negative
+Cyanophage P-RSM1	NC_021071.1	negative
+Bacillus phage vB_BceM-Bc431v3	NC_020873.1	positive
+Staphylococcus phage Sb-1	NC_023009.1	positive
+Bacillus phage Bcp1	NC_024137.1	positive
+Shigella phage pSs-1	NC_025829.1	negative
+Citrobacter phage Moon	NC_027331.1	negative
+Sphingomonas phage PAU	NC_019521.1	negative
+Clostridium phage c-st	NC_007581.1	positive
+Escherichia phage HY02	NC_028872.1	negative
+Escherichia phage HY03	NC_031047.1	negative
+Escherichia phage HY01	NC_027349.1	negative
+Mannheimia phage vB_MhM_3927AP2	NC_028766.1	negative
+Enterobacteria phage JSE	NC_012740.1	negative
+Salmonella phage PVP-SE1	NC_016071.1	negative
+Prochlorococcus phage MED4-213	NC_020845.1	negative
+Cyanophage P-TIM40	NC_028663.1	negative
+Mycobacterium phage Astraea	NC_021349.1	myco
+Bacillus phage DIGNKC	NC_031006.1	positive
+Enterobacteria phage Phi1	NC_009821.1	negative
+Citrobacter phage IME-CF2	NC_029013.1	negative
+Synechococcus phage S-SSM7	NC_015287.1	negative
+Synechococcus phage S-SSM5	NC_015289.1	negative
+Synechococcus phage S-SSM4	NC_020875.1	negative
+Shewanella sp. phage 1/4	NC_025436.1	negative
+Escherichia phage FFH2	NC_024134.1	negative
+Stenotrophomonas phage Smp131	NC_023588.1	negative
+Pseudomonas phage phiMK	NC_031110.1	negative
+Erwinia phage phiEa104	NC_015292.1	negative
+Brevibacillus phage Osiris	NC_028969.1	positive
+Salmonella phage SEN4	NC_029015.2	negative
+Salmonella phage SEN5	NC_028701.2	negative
+Salmonella phage Det7	NC_027119.1	negative
+Staphylococcus virus SA11	NC_019511.1	positive
+Pseudomonas phage vB_PaeM_PAO1_Ab03	NC_026587.1	negative
+Pectobacterium phage ZF40	NC_019522.1	negative
+Listeria phage LMTA-148	NC_024787.1	positive
+Acinetobacter phage YMC-13-01-C62	NC_024785.1	negative
+Acinetobacter phage vB_AbaM_phiAbaA1	NC_031280.1	negative
+Bacillus phage TsarBomba	NC_028890.1	positive
+Mycobacterium phage Spud	NC_011270.1	myco
+Staphylococcus phage 812	NC_029080.1	positive
+Campylobacter phage PC14	NC_031909.1	negative
+Pseudomonas phage EL	NC_007623.1	negative
+Cronobacter phage CR9	NC_023717.1	negative
+Bacillus phage Mater	NC_027366.1	positive
+Bacillus phage Eldridge	NC_030920.1	positive
+Clostridium phage phiCD211	NC_029048.1	positive
+Erwinia phage vB_EamM-Y2	NC_019504.1	negative
+Pseudomonas phage KPP12	NC_019935.1	negative
+Pseudomonas phage KPP10	NC_015272.2	negative
+Acinetobacter phage phiAC-1	NC_028995.1	negative
+Escherichia phage phAPEC8	NC_020079.1	negative
+Bacillus phage CP-51	NC_025423.1	positive
+Bacillus phage phiAGATE	NC_020081.2	positive
+Brochothrix phage A9	NC_015253.1	positive
+Escherichia phage vB_EcoM_VR7	NC_014792.1	negative
+Staphylococcus phage phiSA12	NC_023573.1	positive
+Pseudomonas phage JG024	NC_017674.1	negative
+Escherichia phage pro483	NC_028943.1	negative
+Natrialba phage PhiCh1	NC_004084.1	archaea
+Cronobacter phage ENT47670	NC_019927.1	negative
+Haemophilus phage Aaphi23	NC_004827.1	negative
+Salmonella phage FelixO1	NC_005282.1	negative
+Enterobacteria phage WPhi	NC_005056.1	negative
+Bacillus phage 0305phi8-36	NC_009760.1	positive
+Pseudomonas phage PhiPA3	NC_028999.1	negative
+Escherichia phage JH2	NC_029023.1	negative
+Aeromonas phage Aes508	NC_019543.1	negative
+Acinetobacter phage vB_AbaM_IME200	NC_028987.1	negative
+Mycobacterium phage Tonenili	NC_031080.1	myco
+Erwinia phage vB_EamM_EarlPhillipIV	NC_031007.1	negative
+Bacillus virus SPO1	NC_011421.1	positive
+Pseudomonas phage PAK_P4	NC_022986.1	negative
+Pseudomonas phage PAK_P5	NC_022966.1	negative
+Pseudomonas phage PAK_P1	NC_015294.2	negative
+Pseudomonas phage PAK_P2	NC_022967.1	negative
+Pseudomonas phage PAK_P3	NC_022970.1	negative
+Bacillus phage B4	NC_018863.1	positive
+Listeria phage LMSP-25	NC_024360.1	positive
+Vibrio phage K139	NC_003313.1	negative
+Escherichia phage UFV-AREG1	NC_031030.1	negative
+Enterobacter phage Arya	NC_031048.1	negative
+Burkholderia phage ST79	NC_021343.1	negative
+Enterobacteria phage SfMu	NC_027382.1	negative
+Bacillus phage Deep Blue	NC_031056.1	positive
+Burkholderia phage KL3	NC_015266.1	negative
+Pseudomonas phage phiPsa374	NC_023601.1	negative
+Aeromonas phage CC2	NC_019538.1	negative
+Rhizobium phage vB_RleM_PPF1	NC_025427.1	negative
+Enterococcus phage EFDG1	NC_029009.1	positive
+Burkholderia phage KS5	NC_015265.1	negative
+Enterobacteria phage RB27	NC_025448.1	negative
+Salmonella phage HB-2014	NC_027329.1	negative
+Acinetobacter bacteriophage AP22	NC_017984.1	negative
+Shigella phage SHBML-50-1	NC_031085.1	negative
+Vibrio phage 11895-B1	NC_020843.1	negative
+Pseudomonas phage LBL3	NC_011165.1	negative
+Escherichia phage Cba120	NC_016570.1	negative
+Klebsiella phage JD001	NC_020204.1	negative
+Mycobacterium phage Dandelion	NC_023696.1	myco
+Stenotrophomonas phage IME13	NC_029000.1	negative
+Escherichia phage ECML-117	NC_025441.1	negative
+Bacillus virus G	NC_023719.1	positive
+Enterobacteria phage P4	NC_001609.1	negative
+Staphylococcus phage Stau2	NC_030933.1	positive
+Lactobacillus phage KC5a	NC_007924.1	positive
+Escherichia phage EC6	NC_027369.1	negative
+Vibrio phage ICP1	NC_015157.1	negative
+Aggregatibacter phage S1249	NC_013597.1	negative
+Bacillus phage BPS10C	NC_023501.1	positive
+Pseudomonas phage SN	NC_011756.1	negative
+Staphylococcus phage vB_SauM_Romulus	NC_020877.1	positive
+Klebsiella phage vB_KpnM_KB57	NC_028659.1	negative
+Rhizobium phage vB_RleM_P10VF	NC_025429.1	negative
+Streptococcus phage EJ-1	NC_005294.1	positive
+Vibrio phage nt-1	NC_021529.2	negative
+Listeria phage WIL-1	NC_025440.1	positive
+Enterobacteria phage RB43	NC_007023.1	negative
+Mycobacterium phage Rizal	NC_011272.1	myco
+Halocynthia phage JM-2012	NC_017975.1	unknown
+Campylobacter virus CP220	NC_027997.1	negative
+Staphylococcus virus K	NC_005880.2	positive
+Escherichia phage vB_EcoM-ep3	NC_025430.1	negative
+Enterobacteria phage Bp7	NC_019500.1	negative
+Shigella phage SHFML-26	NC_031011.1	negative
+Enterococcus phage ECP3	NC_027335.1	positive
+Bacillus phage Hoody T	NC_024205.1	positive
+Klebsiella phage KP15	NC_014036.1	negative
+Aeromonas virus phiO18P	NC_009542.2	negative
+Xanthomonas phage vB_XveM_DIBBI	NC_017981.1	negative
+Escherichia virus Mu	NC_000929.1	negative
+Escherichia phage WG01	NC_031928.1	negative
+Erwinia phage phiEa2809	NC_027340.1	negative
+Salmonella phage PhiSH19	NC_019530.1	negative
+Aeromonas virus 44RR2	NC_005135.1	negative
+Vibrio phage VH7D	NC_023568.1	negative
+Pseudomonas phage DL68	NC_028971.1	negative
+Synechococcus phage S-SM1	NC_015282.1	negative
+Synechococcus phage S-CAM8	NC_021530.1	negative
+Mycobacterium phage ET08	NC_013650.1	myco
+Synechococcus phage S-SM2	NC_015279.1	negative
+Synechococcus phage S-CAM1	NC_020837.1	negative
+Klebsiella phage Matisse	NC_028750.1	negative
+Rhodococcus phage E3	NC_021347.1	positive
+Salmonella phage SEN1	NC_029003.2	negative
+Salmonella phage Maynard	NC_022768.1	negative
+Brevibacillus phage Abouo	NC_029029.1	positive
+Vibrio phage ValKK3	NC_028829.1	negative
+Pseudomonas phage phi3	NC_030940.1	negative
+Pectobacterium phage PM1	NC_023865.1	negative
+Shigella phage Shf125875	NC_025437.1	negative
+Yersinia phage phiR1-RT	NC_019909.1	negative
+Ralstonia phage RSA1	NC_009382.1	negative
+Acinetobacter phage YMC11/12/R2315	NC_028855.1	negative
+Escherichia phage Av-05	NC_025830.1	negative
+Thermus phage TMA	NC_015937.1	negative
+Pelagibacter phage HTVC008M	NC_020484.1	negative
+Enterobacteria phage vB_EcoM_VR5	NC_028881.1	negative
+Shigella phage SHSML-52-1	NC_031090.1	negative
+Salmonella phage RE-2010	NC_019488.1	negative
+Escherichia phage slur16	NC_028248.1	negative
+Sinorhizobium phage phiM12	NC_027204.1	negative
+Burkholderia virus BcepNY3	NC_009604.1	negative
+Iodobacteriophage phiPLPE	NC_011142.1	negative
+Burkholderia virus Bcep1	NC_005263.2	negative
+Cronobacter phage vB_CsaM_GAP161	NC_019398.1	negative
+Bacillus phage AvesoBmore	NC_028887.1	positive
+Sinorhizobium phage phiM9	NC_028676.1	negative
+Bacillus phage CampHawk	NC_022761.1	positive
+Bacillus phage AR9	NC_031039.1	positive
+Acinetobacter phage Acj9	NC_014663.1	negative
+Escherichia phage vB_EcoM_AYO145A	NC_028825.1	negative
+Prochlorococcus phage MED4-184	NC_020847.1	negative
+Burkholderia virus BcepF1	NC_009015.1	negative
+Pseudomonas phage OBP	NC_016571.1	negative
+Enterobacteria phage T4	NC_000866.4	negative
+Thermus phage phiYS40	NC_008584.1	negative
+Bacillus phage BM5	NC_029069.1	positive
+Vibrio phage VP882	NC_009016.1	negative
+Pseudomonas phage vB_PaeM_PS24	NC_028882.1	negative
+Bacillus phage Grass	NC_022771.1	positive
+Bacillus phage Bobb	NC_024792.1	positive
+Pseudomonas phage 201phi2-1	NC_010821.1	negative
+Vibrio phage VPUSM 8	NC_022747.1	negative
+Salmonella phage vB_SenMS16	NC_020416.1	negative
+Bacillus phage BCP78	NC_018860.1	positive
+Mycobacterium phage ArcherS7	NC_021348.1	myco
+Escherichia phage PhaxI	NC_019452.1	negative
+Clostridium phage phiCD506	NC_028838.1	positive
+Clostridium phage phiCD505	NC_028764.1	positive
+Salmonella phage Fels-2	NC_010463.1	negative
+Burkholderia phage KS14	NC_015273.1	negative
+Salmonella phage 38	NC_029042.1	negative
+Burkholderia phage KS10	NC_011216.1	negative
+Cyanophage S-TIM5	NC_019516.1	negative
+Pseudomonas phage PPpW-3	NC_023006.1	negative
+Synechococcus phage S-CRM01	NC_015569.1	negative
+Mycobacterium phage ScottMcG	NC_011269.1	myco
+Burkholderia virus BcepMu	NC_005882.1	negative
+Vibrio phage CP-T1	NC_019457.1	negative
+Klebsiella phage vB_KpnM_KpV477	NC_031087.1	negative
+Bacillus phage Shanette	NC_028983.1	positive
+Bdellovibrio phage phi1422	NC_019525.1	negative
+Pseudomonas phage vB_Pae_PS44	NC_028939.1	negative
+Rhizobium phage RR1-A	NC_021560.1	negative
+Rhizobium phage RR1-B	NC_021557.1	negative
+Bacillus phage Zuko	NC_031116.1	positive
+Enterobacteria phage RB32	NC_008515.1	negative
+Flavobacterium phage FCL-2	NC_027125.1	negative
+Campylobacter phage CP30A	NC_018861.1	negative
+Escherichia phage V5	NC_011041.1	negative
+Escherichia phage pro147	NC_028896.1	negative
+Escherichia virus P2	NC_001895.1	negative
+Escherichia virus P1	NC_005856.1	negative
+Salmonella phage ViI	NC_015296.1	negative
+Escherichia phage Lw1	NC_021344.2	negative
+Cyanophage S-RIM32	NC_031235.1	negative
+Escherichia phage FV3	NC_019517.1	negative
+Bacillus phage DirtyBetty	NC_031054.1	positive
+Cronobacter phage PBES 02	NC_028672.1	negative
+Synechococcus phage S-PM2	NC_006820.1	negative
+Microcystis aeruginosa phage Ma-LMM01	NC_008562.1	negative
+Escherichia phage APCEc01	NC_029091.1	negative
+Shigella phage Ag3	NC_013693.1	negative
+Mycobacterium phage LinStu	NC_023714.1	myco
+Cronobacter phage S13	NC_028773.1	negative
+Enterobacter phage PG7	NC_023561.1	negative
+Staphylococcus phage JD007	NC_019726.1	positive
+Acinetobacter phage Ac42	NC_014660.1	negative
+Escherichia phage vB_EcoM_JS09	NC_024124.2	negative
+Vibrio phage vB_VpaM_MAR	NC_019722.1	negative
+Klebsiella phage K64-1	NC_027399.1	negative
+Bacillus phage Moonbeam	NC_027374.1	positive
+Enterobacteria phage SfI	NC_027339.1	negative
+Escherichia phage 121Q	NC_025447.1	negative
+Citrobacter phage Margaery	NC_028755.1	negative
+Enterobacteria phage SfV	NC_003444.1	negative
+Bacillus phage BPS13	NC_018857.1	positive
+Prochlorococcus phage P-HM1	NC_015280.1	negative
+Prochlorococcus phage P-HM2	NC_015284.1	negative
+Salmonella phage vB_SalM_SJ3	NC_024122.1	negative
+Salmonella phage vB_SalM_SJ2	NC_023856.1	negative
+Mannheimia phage vB_MhM_587AP1	NC_028898.1	negative
+Burkholderia phage BcepB1A	NC_005886.2	negative
+Yersinia phage phiR1-37	NC_016163.1	negative
+Pseudomonas phage vB_PaeM_C1-14_Ab28	NC_026600.1	negative
+Pseudomonas phage VCM	NC_029065.1	negative
+Pseudomonas phage vB_PaeM_PAO1_Ab27	NC_026586.1	negative
+Salmonella virus PsP3	NC_005340.1	negative
+Pseudomonas phage PaP1	NC_019913.1	negative
+Escherichia phage D108	NC_013594.1	negative
+Pseudomonas phage PB1	NC_011810.1	negative
+Acinetobacter virus 133	NC_015250.1	negative
+Bacillus phage Phrodo	NC_031100.1	positive
+Erwinia phage vB_EamM_Huxley	NC_031127.1	negative
+Agrobacterium phage 7-7-1	NC_019519.1	negative
+Salmonella phage NR01	NC_031042.1	negative
+Edwardsiella phage eiAU-183	NC_023555.1	negative
+Pseudomonas phage vB_PaeM_C2-10_Ab1	NC_019918.1	negative
+Ralstonia phage RSP15	NC_030948.1	negative
+Pseudomonas phage PaBG	NC_022096.1	negative
+Erwinia phage phiEa21-4	NC_011811.1	negative
+Microcystis phage MaMV-DC	NC_029002.1	negative
+Salmonella phage SKML-39	NC_019910.1	negative
+Enterobacteria phage JS98	NC_010105.1	negative
+Pseudomonas phage vB_PsyM_KIL1	NC_030934.1	negative
+Clostridium virus phiCD27	NC_011398.1	positive
+Bacillus phage Riley	NC_024788.1	positive
+Brevibacillus phage Jimmer1	NC_029104.1	positive
+Aeromonas phage PX29	NC_023688.1	negative
+Bacillus phage Kida	NC_031012.1	positive
+Bacillus phage Evoli	NC_024207.1	positive
+Enterobacteria phage fiAA91-ss	NC_022750.1	negative
+Burkholderia virus phiE202	NC_009234.1	negative
+Klebsiella phage KP27	NC_020080.1	negative
+Escherichia phage slur14	NC_028448.1	negative
+Burkholderia virus Bcep781	NC_004333.2	negative
+Bacillus phage Spock	NC_022763.1	positive
+Escherichia phage vB_EcoM_Alf5	NC_031082.1	negative
+Pectobacterium phage phiTE	NC_020201.1	negative
+Serratia phage phiMAM1	NC_020083.1	negative
+Mycobacterium phage MoMoMixon	NC_023733.1	myco
+Staphylococcus phage Twort	NC_007021.1	positive
+Bacillus phage Shbh1	NC_030925.1	positive
+Shigella phage SHFML-11	NC_030953.1	negative
+Cronobacter phage CR8	NC_024354.1	negative
+Cronobacter phage CR5	NC_021531.1	negative
+Shewanella sp. phage 1/44	NC_025463.1	negative
+Cronobacter phage CR3	NC_017974.1	negative
+Staphylococcus phage Team1	NC_025417.1	positive
+Aeromonas virus 65	NC_015251.1	negative
+Bacillus phage Megatron	NC_024211.1	positive
