@@ -28,6 +28,12 @@ def export_seqs(seq_record):
 
 
 def find_tmp(gbk):
+    # status = {}
+    # with open("myos/myos_assigned.txt", "r") as seq_handle:
+        # for line in seq_handle:
+            # l = line.strip().split('\t')
+            # status[l[1]] = l[2]
+
     count = 0
     ids = []
     for seq_record in SeqIO.parse(gbk, "genbank"):
@@ -44,16 +50,17 @@ def find_tmp(gbk):
 
             info, translation = gather_cds_info(feature.qualifiers)
 
-            if len(translation) < 6:
+            if len(translation) < 100:
                 continue
 
+            # print '>' + seq_record.annotations['organism'].replace(' ', '_') + '_' + feature.qualifiers['protein_id'][0] + '_' + status[seq_record.id]
             # print '>' + seq_record.id + '_' + feature.qualifiers['protein_id'][0]
             # print translation
 
             tmps_in_feature = []
             for i in info:
-                if ('length' in i.lower()) or ('tape' in i.lower() and 'pentape' not in i.lower() and 'chaperone' not in i.lower() and 'pre' not in i.lower()):
-                # if 'gph' in i.lower():
+                if ('measure' in i.lower() and 'tape' not in i.lower()) or ('length' in i.lower()) or ('tape' in i.lower() and 'pentape' not in i.lower() and 'chaperone' not in i.lower() and 'pre' not in i.lower()):
+                # if 'measure' in i.lower() and 'tape' not in i.lower():
                     # tmp_inner.append(i)
                     tmps_in_feature.append(i)
                     tmp_seq = translation
@@ -68,6 +75,7 @@ def find_tmp(gbk):
                 count += 1
                 print '>' + seq_record.id + '_' + tmp_id + ' ' + ','.join(tmps_in_genome[0])
                 print tmp_seq
+    # print count
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='find tape measure proteins')
